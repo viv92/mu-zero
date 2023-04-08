@@ -1,2 +1,2 @@
 # mu-zero
-experiments on muzero algorithm
+experiments on mu-zero algorithm
